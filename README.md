@@ -19,8 +19,15 @@ Repositório com as informações e atividades abordadas no curso "JavaScript: p
 
 
 ### Aula 03
-- [x] Criação de Arrays;
-- [x] Inserção de itens em um array;
-- [x] Array splice;
-- [x]Palavras reservadas;
-- [x] Indices do array;
+- [x] Criação de Arrays
+- [x] Inserção de itens em um array
+- [x] Array splice
+- [x]Palavras reservadas
+- [x] Indices do array
+
+### Aula 04
+- [x] If e Else
+- [x]Operadores lógicos
+- [z] if encadeado
+- [x] else if
+- [x] && e ||
