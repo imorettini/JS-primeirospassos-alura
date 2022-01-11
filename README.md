@@ -22,12 +22,12 @@ Repositório com as informações e atividades abordadas no curso "JavaScript: p
 - [x] Criação de Arrays
 - [x] Inserção de itens em um array
 - [x] Array splice
-- [x]Palavras reservadas
+- [x] Palavras reservadas
 - [x] Indices do array
 
 ### Aula 04
 - [x] If e Else
-- [x]Operadores lógicos
-- [z] if encadeado
+- [x] Operadores lógicos
+- [x] if encadeado
 - [x] else if
 - [x] && e ||
