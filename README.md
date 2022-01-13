@@ -31,3 +31,12 @@ Repositório com as informações e atividades abordadas no curso "JavaScript: p
 - [x] if encadeado
 - [x] else if
 - [x] && e ||
+
+### Aula 05 
+- [x] While
+- [x] Break
+- [x] Usando o Debbuger do VS Code
+- [x] Entendendo o fluxo de execução do código
+- [x] configurando o debbuger do VSCode
+- [x] For Loop
+
