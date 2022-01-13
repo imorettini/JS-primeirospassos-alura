@@ -1,6 +1,6 @@
 # Anotações gerais
 
-### Iniciado em 06/01/2022 
+### Finalizado em 13/01/2022 
 Repositório com as informações e atividades abordadas no curso "JavaScript: primeiros passos com a linguagem" da Alura
 
 ### Aula 01
